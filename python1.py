@@ -1,4 +1,4 @@
-a=1
-b=2
+a=299
+b=201
 c=a+b
-print("result: ",c)
+print("result:",c)
